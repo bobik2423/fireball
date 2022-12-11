@@ -1,0 +1,36 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color: blue;
+    padding:10px;
+    margin:1px;
+border-radius: 10px;
+}
+h1{
+    text-align: center;
+    border-radius: 10px ;
+    color:OrangeRed;
+}
+footer p{
+    background-color: crimson;
+}
+nav{
+    background-color:darkgreen;
+    color: green;
+    text-decoration: none;
+    font-size: 20px;
+    
+    border-radius: 10px;
+    padding: 10px;
+    margin: 1px;
+
+
+}
+main p {
+    background-color:tomato;
+
+}
+p1, p2, p3, p4 ,p5, p6,p7,p8,p9,p10,p11 p {
+    font-size:20px;
+}
